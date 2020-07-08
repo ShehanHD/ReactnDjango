@@ -1,17 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400cd853-134f-4354-9a44-280d57cd390b" name="Default Changelist" comment="" />
+    <list default="true" id="400cd853-134f-4354-9a44-280d57cd390b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/actions/messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/component/layout/Alerts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reducers/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reducers/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/actions/leads.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/actions/leads.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/component/leads/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/component/leads/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/component/leads/Leads.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/component/leads/Leads.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/reducers/leads.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/reducers/leads.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/static/frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/static/frontend/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leads/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/leads/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="project_1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,15 +52,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1c0JJg2mxXJppLMPA0ugeLgjaWW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,7 +82,7 @@
       <recent name="E:\Projects\ReactnDjango\project_1" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="Django Server.project_1">
     <configuration name="project_1" type="Python.DjangoServer" factoryName="Django server">
       <module name="project_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,36 +145,98 @@
       <workItem from="1589700709254" duration="229000" />
       <workItem from="1589700953737" duration="1373000" />
       <workItem from="1589726631222" duration="14865000" />
+      <workItem from="1589837505500" duration="1758000" />
+      <workItem from="1590076567142" duration="8229000" />
+      <workItem from="1590131644316" duration="2391000" />
+      <workItem from="1590222751859" duration="14000" />
+      <workItem from="1590223511628" duration="35000" />
+      <workItem from="1590250348114" duration="3308000" />
+      <workItem from="1590347672037" duration="592000" />
+      <workItem from="1590348588849" duration="2535000" />
+      <workItem from="1590393101348" duration="610000" />
+      <workItem from="1590772949691" duration="176000" />
+      <workItem from="1591104885152" duration="841000" />
+      <workItem from="1591106460328" duration="1224000" />
+      <workItem from="1591378852816" duration="1593000" />
+      <workItem from="1591446736619" duration="133000" />
+      <workItem from="1591523924552" duration="37000" />
+      <workItem from="1591546830517" duration="742000" />
+      <workItem from="1591794566434" duration="81000" />
+      <workItem from="1591948864760" duration="23000" />
+      <workItem from="1591974353901" duration="636000" />
+      <workItem from="1592033256493" duration="4161000" />
+      <workItem from="1593609477513" duration="1242000" />
+      <workItem from="1593708224474" duration="848000" />
+      <workItem from="1593710911799" duration="39000" />
+      <workItem from="1593710958649" duration="107000" />
+      <workItem from="1593711084768" duration="204000" />
+      <workItem from="1593711298956" duration="48000" />
+      <workItem from="1593711359925" duration="1833000" />
+      <workItem from="1593975400670" duration="13000" />
+      <workItem from="1593978243816" duration="12000" />
+      <workItem from="1594192956801" duration="30000" />
+      <workItem from="1594193006656" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="998" height="145" key="GridCell.Tab.0.bottom" timestamp="1589745280085">
+    <state x="1512" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592036708351">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="998" height="145" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1589745280085" />
-    <state width="998" height="145" key="GridCell.Tab.0.center" timestamp="1589745280085">
+    <state x="1512" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1592036708351" />
+    <state x="1549" y="115" key="CommitChangelistDialog2" timestamp="1590095524929">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="998" height="145" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1589745280085" />
-    <state width="998" height="145" key="GridCell.Tab.0.left" timestamp="1589745280085">
+    <state x="1549" y="115" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1590095524929" />
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1592043146284">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="998" height="145" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1589745280085" />
-    <state width="998" height="145" key="GridCell.Tab.0.right" timestamp="1589745280085">
+    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1592043146284" />
+    <state width="1015" height="147" key="GridCell.Tab.0.bottom" timestamp="1593710814179">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1015" height="140" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1592043182287" />
+    <state width="1015" height="147" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1593710814179" />
+    <state width="1015" height="147" key="GridCell.Tab.0.center" timestamp="1593710814179">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1015" height="140" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1592043182287" />
+    <state width="1015" height="147" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1593710814179" />
+    <state width="1015" height="147" key="GridCell.Tab.0.left" timestamp="1593710814179">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1015" height="140" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1592043182287" />
+    <state width="1015" height="147" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1593710814179" />
+    <state width="1015" height="147" key="GridCell.Tab.0.right" timestamp="1593710814179">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1015" height="140" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1592043182287" />
+    <state width="1015" height="147" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1593710814179" />
+    <state x="1430" y="308" key="SettingsEditor" timestamp="1593711349630">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1430" y="297" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1590252510990" />
+    <state x="1430" y="308" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1593711349630" />
+    <state x="1500" y="175" key="com.intellij.database.dbimport.ImportDialog" timestamp="1591446881896">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="998" height="145" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1589745280085" />
-    <state x="1430" y="297" key="SettingsEditor" timestamp="1589740239136">
+    <state x="1500" y="175" key="com.intellij.database.dbimport.ImportDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1591446881896" />
+    <state x="1583" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1590349066324">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1430" y="297" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589740239136" />
-    <state x="1583" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1589661406712">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="1583" y="229" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1589661406712" />
+    <state x="1583" y="229" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1590349066324" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/component/leads/Dashboard.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
